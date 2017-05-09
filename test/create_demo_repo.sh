@@ -115,7 +115,7 @@ svn update $WORKING_DIR
 #create qux from bar
 echo  ""
 echo  "S-013"
-svn copy $SVN_URL/branches/baz $SVN_URL/branches/qux -m "S-013 backend create bist 1105 branch"
+svn copy $SVN_URL/branches/baz $SVN_URL/branches/qux -m "S-013 create qux branch from baz"
 svn update $WORKING_DIR
 
 #S-014
