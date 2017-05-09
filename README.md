@@ -49,7 +49,7 @@ Filter projects from given dump file and svn repo. Related branches should be gi
 Load history from given dump file to given SVN repo.
 
 * `svndumpfilter.py`
-Used for filtering svn dump file for given branches. (Detail: https://github.com/jasperlee108/svndumpfilterIN/blob/master/README.md)
+Used for filtering svn dump file for given branches. [Details](https://github.com/jasperlee108/svndumpfilterIN/blob/master/README.md)
 
 ### Test scripts
 * `environment.sh`: You could change environment variables from this script file.
